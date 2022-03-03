@@ -1,0 +1,9 @@
+{
+	"name": "RICKJSON",
+	"description": "Tratamento de arquivos JSON Delphi e Lazarus",
+	"version": "1.1",
+	"homepage": "",
+	"mainsrc": "./src",
+	"projects": [],
+	"dependencies": {}
+}

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="RICKJSON.pas"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="7"/>
+        <CursorPos X="22" Y="4"/>
+        <UsageCount Value="304"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="rickjson.principal.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="59"/>
+        <CursorPos X="36" Y="63"/>
+        <UsageCount Value="304"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\src\r2dw.json.interfaces.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="134"/>
+        <CursorPos X="55" Y="140"/>
+        <UsageCount Value="304"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\src\r2dw.json.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="30" Y="42"/>
+        <UsageCount Value="303"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\src\r2dw.json.objects.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="133"/>
+        <CursorPos Y="163"/>
+        <UsageCount Value="303"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\src\r2dw.json.arrays.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4"/>
+        <CursorPos Y="9"/>
+        <UsageCount Value="303"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\src\r2dw.json.old.pas"/>
+        <UnitName Value="r2dw.json.OLD"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="390"/>
+        <CursorPos X="3" Y="406"/>
+        <UsageCount Value="34"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Lazarus\fpcsrc\packages\fcl-json\src\fpjson.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="44"/>
+        <CursorPos X="25" Y="55"/>
+        <UsageCount Value="130"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\src\RICK.JSON.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="43"/>
+        <CursorPos X="24" Y="50"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="-1"/>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

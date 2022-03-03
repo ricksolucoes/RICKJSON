@@ -1,0 +1,66 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 480
+  ClientWidth = 281
+  Position = ScreenCenter
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object btCriarObjeto: TSpeedButton
+    Align = Top
+    Cursor = crHandPoint
+    Margins.Bottom = 15.000000000000000000
+    Size.Width = 281.000000000000000000
+    Size.Height = 41.000000000000000000
+    Size.PlatformDefault = False
+    Text = 'Criar Objeto'
+    OnClick = btCriarObjetoClick
+  end
+  object btParseJSON: TSpeedButton
+    Align = Top
+    Cursor = crHandPoint
+    Margins.Bottom = 15.000000000000000000
+    Position.Y = 56.000000000000000000
+    Size.Width = 281.000000000000000000
+    Size.Height = 41.000000000000000000
+    Size.PlatformDefault = False
+    Text = 'Parse JSON'
+    OnClick = btParseJSONClick
+  end
+  object btLerCampo: TSpeedButton
+    Align = Top
+    Cursor = crHandPoint
+    Margins.Bottom = 15.000000000000000000
+    Position.Y = 112.000000000000000000
+    Size.Width = 281.000000000000000000
+    Size.Height = 41.000000000000000000
+    Size.PlatformDefault = False
+    Text = 'Ler Campo'
+    OnClick = btLerCampoClick
+  end
+  object btModificarCampo: TSpeedButton
+    Align = Top
+    Cursor = crHandPoint
+    Margins.Bottom = 15.000000000000000000
+    Position.Y = 168.000000000000000000
+    Size.Width = 281.000000000000000000
+    Size.Height = 41.000000000000000000
+    Size.PlatformDefault = False
+    Text = 'Modificar Campo'
+    OnClick = btModificarCampoClick
+  end
+  object btPesquisarArray: TSpeedButton
+    Align = Top
+    Cursor = crHandPoint
+    Margins.Bottom = 15.000000000000000000
+    Position.Y = 224.000000000000000000
+    Size.Width = 281.000000000000000000
+    Size.Height = 41.000000000000000000
+    Size.PlatformDefault = False
+    Text = 'Pesquisar Array'
+    OnClick = btPesquisarArrayClick
+  end
+end
